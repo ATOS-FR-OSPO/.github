@@ -18,4 +18,4 @@ Applications métiers, portails, APIs et services destinés aux utilisateurs fin
 
 | Projet | Description |
 |----------|------------|
-| DRI | IRN — Indice de Résilience Numérique. Application web statique d'auto-évaluation IRN selon le référentiel aDRI v1.1.
+| DRI | IRN — Indice de Résilience Numérique.<> Application web statique d'auto-évaluation IRN selon le référentiel aDRI v1.1.
