@@ -11,11 +11,11 @@ Applications métiers, portails, APIs et services destinés aux utilisateurs fin
 
 | Projet | Description |
 |----------|------------|
-| [Welcome](welcome) | Animation de bienvenue |
+| [Welcome](https://github.com/ATOS-FR-OSPO/welcome) | Animation de bienvenue |
 
 
 ### Résilience numérique
 
 | Projet | Description |
 |----------|------------|
-| [DRI](dri) | IRN — Indice de Résilience Numérique.<> Application web statique d'auto-évaluation IRN selon le référentiel aDRI v1.1.
+| [DRI](https://github.com/ATOS-FR-OSPO/dri) | IRN — Indice de Résilience Numérique.<> Application web statique d'auto-évaluation IRN selon le référentiel aDRI v1.1.
