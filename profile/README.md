@@ -11,11 +11,11 @@ Applications métiers, portails, APIs et services destinés aux utilisateurs fin
 
 | Projet | Description |
 |----------|------------|
-| Welcome | Animation de bienvenue |
+| [Welcome](welcome) | Animation de bienvenue |
 
 
 ### Résilience numérique
 
 | Projet | Description |
 |----------|------------|
-| DRI | IRN — Indice de Résilience Numérique.<> Application web statique d'auto-évaluation IRN selon le référentiel aDRI v1.1.
+| [DRI](dri) | IRN — Indice de Résilience Numérique.<> Application web statique d'auto-évaluation IRN selon le référentiel aDRI v1.1.
